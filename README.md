@@ -2,8 +2,6 @@
 <h3 align="center">A CSE Sophomore also a Competitive Programmer and a Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitabisaria&label=Profile%20views&color=0e75b6&style=flat" alt="ishitabisaria" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ishitabisaria" target="blank"><img src="https://img.shields.io/twitter/follow/ishitabisaria?logo=twitter&style=for-the-badge" alt="ishitabisaria" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
 - 🌱 I’m currently learning **JavaScript**
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitabisaria&show_icons=true&locale=en&layout=compact" alt="ishitabisaria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitabisaria&show_icons=true&locale=en" alt="ishitabisaria" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishitabisaria&" alt="ishitabisaria" /></p>
