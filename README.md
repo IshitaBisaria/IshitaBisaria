@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitabisaria&label=Profile%20views&color=0e75b6&style=flat" alt="ishitabisaria" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
-- 🎓 A CSE Sophomre
+- 🎓 A CSE Pre Final Year Student
 
 - 👩‍💻 A Competitive Programmer and a Frontend Developer
 
