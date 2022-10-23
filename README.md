@@ -6,11 +6,11 @@
 
 - 🎓 A CSE Pre Final Year Student
 
-- 👩‍💻 A Competitive Programmer and a Frontend Developer
+- 👩‍💻 A Competitive Programmer and a Full Stack Developer
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **C++, HTML, CSS, Bootstrap**
+- 💬 Ask me about **C++, HTML, CSS, Bootstrap, JavaScript, Angular, Angular Material**
 
 - 📫 You can reach me at **ishitabisaria2011@gmail.com**
 
