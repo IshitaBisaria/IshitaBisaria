@@ -41,4 +41,4 @@
   </tr>
 </table>
 
- [![ishitabisaria's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishitabisaria&theme=xcode)](https://git.io/ishitabisaria)
+ [![ishitabisaria's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishitabisaria&theme=xcode)]([https://git.io/ishitabisaria](https://github.com/ishitabisaria))
